@@ -7,7 +7,7 @@
 // --- ASCII ART PLACEHOLDER ---
 // You will replace this with the ASCII version of your photo.
 #define FACE_WIDTH 104
-#define FACE_HEIGHT 55
+#define FACE_HEIGHT 52
 const char *face_ascii[FACE_HEIGHT] = {
 "KKKKKKKKKKKKKK0000000000OOOOOkddoc::ccc:;,.....  ..   .... ..,,'..',;;;;;,;:;,,'';;;:ccccccloxxxxxkkkkkx",
 "KKKKKKKKKKKKKKKKK00000OOOOkxxdl:::cc;;,........        ......'''.',,,,,,,;;,........,::;;;cclddddxkkkkkk",
